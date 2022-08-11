@@ -71,3 +71,56 @@ SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
 Depiction: https://antiquedev.github.io/depic/rotolock.html
 
+Package: dnios.dn.unc0ver802
+Version: 8.0.2
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
+Name: DNIOS unc0ver 8.0.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver802.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction: https://antiquedev.github.io/depic/rotolock.html
+
+Package: dnios.dn.unc0ver802
+Version: 8.0.2
+Section: thor
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
+Name: DNIOS unc0ver 8.0.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver802.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction: https://antiquedev.github.io/depic/rotolock.html
+
+Package: dnios.dn.unc0ver802
+Version: 8.0.2
+Section: cheyote
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
+Name: DNIOS unc0ver 8.0.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver802.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction: https://antiquedev.github.io/depic/rotolock.html
