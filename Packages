@@ -51,14 +51,754 @@ Size: 3238
 MD5sum: cdc2d03e242637824330720b735d5339
 SHA1sum: 996c1f428af68c3d49d80cb8bceffba5948fe8e6
 SHA256sum: 62a6485f51a6b073142f667ff92b58b3f18ed52a966c87d2930cf191e7249e10
-Depiction: https://antiquedev.github.io/depic/rotolock.html
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver335
+Version: 3.3.5
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.3.5
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver335.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver336
+Version: 3.3.6
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.3.6
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver336.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver337
+Version: 3.3.7
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.3.7
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver337.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver338
+Version: 3.3.8
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.3.8
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver338.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver340
+Version: 3.4.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.4.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver340.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver341
+Version: 3.4.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.4.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver341.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver342
+Version: 3.4.2
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.4.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver342.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver350
+Version: 3.5.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.5.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver350.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver351
+Version: 3.5.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.5.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver351.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver352
+Version: 3.5.2
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.5.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver352.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver354
+Version: 3.5.4
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.5.4
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver354.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver355
+Version: 3.5.5
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.5.5
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver355.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver356
+Version: 3.5.6
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.5.6
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver356.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver360
+Version: 3.6.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.6.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver360.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver362
+Version: 3.6.2
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.6.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver362.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver363
+Version: 3.6.3
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.6.3
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver363.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver370
+Version: 3.7.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.7.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver370.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction: 
+
+Package: dnios.dn.unc0ver380
+Version: 3.8.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 3.8.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver380.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction: 
+
+Package: dnios.dn.unc0ver400
+Version: 4.0.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.0.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver400.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver401
+Version: 4.0.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.0.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver401.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction: 
+
+Package: dnios.dn.unc0ver402
+Version: 4.0.2
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.0.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver402.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction: 
+
+Package: dnios.dn.unc0ver403
+Version: 4.0.3
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.0.3
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver403.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction: 
+
+Package: dnios.dn.unc0ver410
+Version: 4.1.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.1.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver410.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82f
+Depiction: 
+
+Package: dnios.dn.unc0ver411
+Version: 4.1.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.1.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver411.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction: 
+
+Package: dnios.dn.unc0ver420
+Version: 4.2.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.2.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver420.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver421
+Version: 4.2.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.2.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver421.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver431
+Version: 4.3.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 4.3.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver431.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver500
+Version: 5.0.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 5.0.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver500.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver501
+Version: 5.0.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 5.0.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver501.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver520
+Version: 5.2.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 5.2.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver520.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver521
+Version: 5.2.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 5.2.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver521.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver530
+Version: 5.3.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 5.3.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver531.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver600
+Version: 6.0.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 6.0.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver600.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver601
+Version: 6.0.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 6.0.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver601.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver602
+Version: 6.0.2
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 6.0.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver602.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver610
+Version: 6.1.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 6.1.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver610.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver611
+Version: 6.1.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 6.1.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver611.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver612
+Version: 6.1.2
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 6.1.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver612.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver620
+Version: 6.2.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 6.2.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver620.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver700
+Version: 7.0.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 7.0.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver700.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver701
+Version: 7.0.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 7.0.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver701.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver702
+Version: 7.0.2
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 7.0.2
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver702.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver800
+Version: 8.0.0
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 8.0.0
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver800.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
+
+Package: dnios.dn.unc0ver801
+Version: 8.0.1
+Section: unc0ver
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: unc0ver resigned by DNIOS
+Name: DNIOS unc0ver 8.0.1
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/unc0ver801.deb
+Size: 54459118
+MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
+SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
+SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
+Depiction:   DNIOS
 
 Package: dnios.dn.unc0ver802
 Version: 8.0.2
 Section: unc0ver
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
+Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 8.0.2
 Author: DNIOS
 Maintainer: DNIOS
@@ -69,58 +809,132 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction: https://antiquedev.github.io/depic/rotolock.html
+Depiction:   DNIOS
 
-Package: dnios.dn.unc0ver802
-Version: 8.0.2
+Package: dnios.dn.taurine10
+Version: 1.0
 Section: taurine
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
-Name: DNIOS unc0ver 8.0.2
-Author: DNIOS
+Description: taurine resigned by DNIOS
+Name: DNIOS taurine 1.0
+Author: odysseyteam
 Maintainer: DNIOS
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
-Filename: ./debs/unc0ver802.deb
-Size: 54459118
-MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
-SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction: https://antiquedev.github.io/depic/rotolock.html
+Filename: ./debs/taurine10.deb
+Size: 28298264
+MD5sum: dd72af9e7ce63b54de17062fc0fba0d2
+Depiction:   DNIOS
 
-Package: dnios.dn.unc0ver802
-Version: 8.0.2
-Section: thor
+Package: dnios.dn.taurine101
+Version: 1.0.1
+Section: taurine
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
-Name: DNIOS unc0ver 8.0.2
+Description: taurine resigned by DNIOS
+Name: DNIOS taurine 1.0.1
 Author: DNIOS
 Maintainer: DNIOS
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
-Filename: ./debs/unc0ver802.deb
-Size: 54459118
-MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
-SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction: https://antiquedev.github.io/depic/rotolock.html
+Filename: ./debs/taurine101.deb
+Size: 28298244
+MD5sum: 2934ca9a9a2d78e599f3e9bd534d39bb
+Depiction:   DNIOS
 
-Package: dnios.dn.unc0ver802
-Version: 8.0.2
-Section: cheyote
+Package: dnios.dn.taurine102
+Version: 1.0.2
+Section: taurine
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
-Name: DNIOS unc0ver 8.0.2
+Description: taurine resigned by DNIOS
+Name: DNIOS taurine 1.0.2
 Author: DNIOS
 Maintainer: DNIOS
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
-Filename: ./debs/unc0ver802.deb
-Size: 54459118
-MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
-SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction: https://antiquedev.github.io/depic/rotolock.html
+Filename: ./debs/taurine102.deb
+Size: 30257492
+MD5sum: 0ceba06ff6889fb645d79debdd2e19d7
+Depiction:   DNIOS
+
+Package: dnios.dn.taurine103
+Version: 1.0.3
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: taurine resigned by DNIOS
+Name: DNIOS taurine 1.0.3
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine103.deb
+Size: 31724626
+MD5sum: 66632b7b57e99dd2029b767fde9b44a9
+Depiction:   DNIOS
+
+Package: dnios.dn.taurine104
+Version: 1.0.4
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: taurine resigned by DNIOS
+Name: DNIOS taurine 1.0.4
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine103.deb
+Size: 31723676
+MD5sum: e95f315c9f2adcba9be7c849dca1047a
+Depiction:   DNIOS
+
+Package: dnios.dn.taurine105
+Version: 1.0.5
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: taurine resigned by DNIOS
+Name: DNIOS taurine 1.0.5
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine105.deb
+Size: 33009556
+MD5sum: a40cf5d69aadbe59f718190bfb6e2b40
+Depiction:   DNIOS
+
+Package: dnios.dn.taurine106
+Version: 1.0.6
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.0.6
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine106.deb
+Size: 33008932
+MD5sum: 97fd762f7d0cb395b06e6db1cff5db0b
+Depiction:   DNIOS
+
+Package: dnios.dn.taurine107
+Version: 1.0.7
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.0.7
+Author: DNIOS
+Maintainer: DNIOS
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine107.deb
+Size: 33173552
+MD5sum: 3fca77c073b8c38a2d928a07db8a5cb5
+Depiction:   DNIOS
