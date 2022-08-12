@@ -51,7 +51,7 @@ Size: 3238
 MD5sum: cdc2d03e242637824330720b735d5339
 SHA1sum: 996c1f428af68c3d49d80cb8bceffba5948fe8e6
 SHA256sum: 62a6485f51a6b073142f667ff92b58b3f18ed52a966c87d2930cf191e7249e10
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver335
 Version: 3.3.5
@@ -61,13 +61,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.3.5
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver335.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver336
 Version: 3.3.6
@@ -77,13 +77,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.3.6
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver336.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver337
 Version: 3.3.7
@@ -93,13 +93,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.3.7
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver337.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver338
 Version: 3.3.8
@@ -109,13 +109,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.3.8
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver338.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver340
 Version: 3.4.0
@@ -125,13 +125,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.4.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver340.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver341
 Version: 3.4.1
@@ -141,13 +141,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.4.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver341.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver342
 Version: 3.4.2
@@ -157,13 +157,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.4.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver342.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver350
 Version: 3.5.0
@@ -173,13 +173,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.5.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver350.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver351
 Version: 3.5.1
@@ -189,13 +189,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.5.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver351.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver352
 Version: 3.5.2
@@ -205,13 +205,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.5.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver352.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver354
 Version: 3.5.4
@@ -221,13 +221,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.5.4
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver354.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver355
 Version: 3.5.5
@@ -237,13 +237,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.5.5
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver355.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver356
 Version: 3.5.6
@@ -253,13 +253,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.5.6
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver356.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver360
 Version: 3.6.0
@@ -269,13 +269,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.6.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver360.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver362
 Version: 3.6.2
@@ -285,13 +285,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.6.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver362.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver363
 Version: 3.6.3
@@ -301,13 +301,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.6.3
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver363.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver370
 Version: 3.7.0
@@ -317,7 +317,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.7.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver370.deb
@@ -333,7 +333,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 3.8.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver380.deb
@@ -349,13 +349,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.0.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver400.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver401
 Version: 4.0.1
@@ -365,7 +365,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.0.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver401.deb
@@ -381,7 +381,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.0.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver402.deb
@@ -397,7 +397,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.0.3
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver403.deb
@@ -413,7 +413,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.1.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver410.deb
@@ -429,7 +429,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.1.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver411.deb
@@ -445,13 +445,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.2.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver420.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver421
 Version: 4.2.1
@@ -461,13 +461,13 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.2.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver421.deb
 Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver431
 Version: 4.3.1
@@ -477,7 +477,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 4.3.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver431.deb
@@ -485,7 +485,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver500
 Version: 5.0.0
@@ -495,7 +495,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 5.0.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver500.deb
@@ -503,7 +503,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver501
 Version: 5.0.1
@@ -513,7 +513,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 5.0.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver501.deb
@@ -521,7 +521,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver520
 Version: 5.2.0
@@ -531,7 +531,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 5.2.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver520.deb
@@ -539,7 +539,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver521
 Version: 5.2.1
@@ -549,7 +549,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 5.2.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver521.deb
@@ -557,7 +557,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver530
 Version: 5.3.0
@@ -567,7 +567,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 5.3.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver531.deb
@@ -575,7 +575,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver600
 Version: 6.0.0
@@ -585,7 +585,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 6.0.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver600.deb
@@ -593,7 +593,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver601
 Version: 6.0.1
@@ -603,7 +603,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 6.0.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver601.deb
@@ -611,7 +611,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver602
 Version: 6.0.2
@@ -621,7 +621,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 6.0.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver602.deb
@@ -629,7 +629,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver610
 Version: 6.1.0
@@ -639,7 +639,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 6.1.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver610.deb
@@ -647,7 +647,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver611
 Version: 6.1.1
@@ -657,7 +657,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 6.1.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver611.deb
@@ -665,7 +665,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver612
 Version: 6.1.2
@@ -675,7 +675,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 6.1.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver612.deb
@@ -683,7 +683,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver620
 Version: 6.2.0
@@ -693,7 +693,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 6.2.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver620.deb
@@ -701,7 +701,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver700
 Version: 7.0.0
@@ -711,7 +711,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 7.0.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver700.deb
@@ -719,7 +719,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver701
 Version: 7.0.1
@@ -729,7 +729,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 7.0.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver701.deb
@@ -737,7 +737,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver702
 Version: 7.0.2
@@ -747,7 +747,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 7.0.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver702.deb
@@ -755,7 +755,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver800
 Version: 8.0.0
@@ -765,7 +765,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 8.0.0
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver800.deb
@@ -773,7 +773,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver801
 Version: 8.0.1
@@ -783,7 +783,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 8.0.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver801.deb
@@ -791,7 +791,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.unc0ver802
 Version: 8.0.2
@@ -801,7 +801,7 @@ Depends: firmware (>=11.0)
 Description: unc0ver resigned by DNIOS
 Name: DNIOS unc0ver 8.0.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/unc0ver802.deb
@@ -809,7 +809,7 @@ Size: 54459118
 MD5sum: 7a4cd669d22ffde7ff411ca28f4e82fa
 SHA1sum: eb68bb8435d6fa61b99bd694cbb19680132698ac
 SHA256sum: f02274413dd5c9bcdf1f3ae0edcb5c8a49f240c628b495eba38d5cd460f44f70
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine10
 Version: 1.0
@@ -819,13 +819,13 @@ Depends: firmware (>=11.0)
 Description: taurine resigned by DNIOS
 Name: DNIOS taurine 1.0
 Author: odysseyteam
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine10.deb
 Size: 28298264
 MD5sum: dd72af9e7ce63b54de17062fc0fba0d2
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine101
 Version: 1.0.1
@@ -835,13 +835,13 @@ Depends: firmware (>=11.0)
 Description: taurine resigned by DNIOS
 Name: DNIOS taurine 1.0.1
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine101.deb
 Size: 28298244
 MD5sum: 2934ca9a9a2d78e599f3e9bd534d39bb
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine102
 Version: 1.0.2
@@ -851,13 +851,13 @@ Depends: firmware (>=11.0)
 Description: taurine resigned by DNIOS
 Name: DNIOS taurine 1.0.2
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine102.deb
 Size: 30257492
 MD5sum: 0ceba06ff6889fb645d79debdd2e19d7
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine103
 Version: 1.0.3
@@ -867,13 +867,13 @@ Depends: firmware (>=11.0)
 Description: taurine resigned by DNIOS
 Name: DNIOS taurine 1.0.3
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine103.deb
 Size: 31724626
 MD5sum: 66632b7b57e99dd2029b767fde9b44a9
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine104
 Version: 1.0.4
@@ -883,13 +883,13 @@ Depends: firmware (>=11.0)
 Description: taurine resigned by DNIOS
 Name: DNIOS taurine 1.0.4
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine103.deb
 Size: 31723676
 MD5sum: e95f315c9f2adcba9be7c849dca1047a
-Depiction:   DNIOS
+Depiction: https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine105
 Version: 1.0.5
@@ -899,13 +899,13 @@ Depends: firmware (>=11.0)
 Description: taurine resigned by DNIOS
 Name: DNIOS taurine 1.0.5
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine105.deb
 Size: 33009556
 MD5sum: a40cf5d69aadbe59f718190bfb6e2b40
-Depiction:   DNIOS
+Depiction:   https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine106
 Version: 1.0.6
@@ -915,13 +915,13 @@ Depends: firmware (>=11.0)
 Description:  taurine resigned by DNIOS
 Name: DNIOS taurine 1.0.6
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine106.deb
 Size: 33008932
 MD5sum: 97fd762f7d0cb395b06e6db1cff5db0b
-Depiction:   DNIOS
+Depiction:   https://repo.dnios.xyz/info.php
 
 Package: dnios.dn.taurine107
 Version: 1.0.7
@@ -931,10 +931,122 @@ Depends: firmware (>=11.0)
 Description:  taurine resigned by DNIOS
 Name: DNIOS taurine 1.0.7
 Author: DNIOS
-Maintainer: DNIOS
+Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
 Filename: ./debs/taurine107.deb
 Size: 33173552
 MD5sum: 3fca77c073b8c38a2d928a07db8a5cb5
-Depiction:   https://repo.dnios.xyz
+Depiction:   https://repo.dnios.xyz/info.php
+
+Package: dnios.dn.taurine110
+Version: 1.1.0
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.1.0
+Author: DNIOS
+Maintainer: ddac93620@gmail.com
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine110.deb
+Size: 33185712
+MD5sum: f5ce290a3ee042c629f3f8b280b74ab1
+Depiction:   https://repo.dnios.xyz/info.php
+
+Package: dnios.dn.taurine111
+Version: 1.1.1
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.1.1
+Author: DNIOS
+Maintainer: ddac93620@gmail.com
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine111.deb
+Size: 33185800
+MD5sum: b0b9cd96829ebf02f1e6b301361a214a
+Depiction:   https://repo.dnios.xyz/info.php
+
+Package: dnios.dn.taurine112
+Version: 1.1.2
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.1.2
+Author: DNIOS
+Maintainer: ddac93620@gmail.com
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine112.deb
+Size: 33011202
+MD5sum: 24fcd20d997c2ebb848e3a7cde0f6045
+Depiction:   https://repo.dnios.xyz/info.php
+
+Package: dnios.dn.taurine113
+Version: 1.1.3
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.1.3
+Author: DNIOS
+Maintainer: ddac93620@gmail.com
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine113.deb
+Size: 33017664
+MD5sum: 79805e3ec49bae051d90926d5d447de0
+Depiction:   https://repo.dnios.xyz/info.php
+
+Package: dnios.dn.taurine114
+Version: 1.1.4
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.1.4
+Author: DNIOS
+Maintainer: ddac93620@gmail.com
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine114.deb
+Size: 33099922
+MD5sum: 1d4097780312ddf220378ddab2bbab3c
+Depiction:   https://repo.dnios.xyz/info.php
+
+Package: dnios.dn.taurine115
+Version: 1.1.5
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.1.5
+Author: DNIOS
+Maintainer: ddac93620@gmail.com
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine115.deb
+Size: 33099830
+MD5sum: dab4b2c2b7b1213a70a3a9bca59f0fa7
+Depiction:   https://repo.dnios.xyz/info.php
+
+Package: dnios.dn.taurine116
+Version: 1.1.6
+Section: taurine
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description:  taurine resigned by DNIOS
+Name: DNIOS taurine 1.1.6
+Author: DNIOS
+Maintainer: ddac93620@gmail.com
+Tags: compatible_min::ios11.0
+Depiction: DNIOS
+Filename: ./debs/taurine116.deb
+Size: 31994292
+MD5sum: 621a89a256d754ac4b3c3e48bdda56ed
+Depiction:   https://repo.dnios.xyz/info.php
