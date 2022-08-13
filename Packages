@@ -997,17 +997,17 @@ MD5sum: 621a89a256d754ac4b3c3e48bdda56ed
 Depiction:   https://repo.dnios.xyz/info.html
 
 Package: dnios.dn.taurine116
-Version: 1.1.6
+Version: 1.1.7
 Section: taurine
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description:  taurine resigned by DNIOS
-Name: DNIOS taurine 1.1.6
+Name: DNIOS taurine 1.1.7
 Author: DNIOS
 Maintainer: ddac93620@gmail.com
 Tags: compatible_min::ios11.0
 Depiction: DNIOS
-Filename: ./debs/taurine116.deb
+Filename: ./debs/taurine117.deb
 Size: 31994292
 MD5sum: 621a89a256d754ac4b3c3e48bdda56ed
 Depiction:   https://repo.dnios.xyz/info.html
